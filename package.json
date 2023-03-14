@@ -1,0 +1,26 @@
+{
+  "name": "@your-username/react-typescript-autocomplete",
+  "version": "1.0.0",
+  "description": "React TypeScript Autocomplete Component with Dropdown",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bathiesg/autocomplete.git"
+  },
+  "keywords": ["react", "typescript", "autocomplete"],
+  "author": "Your Name <your-email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bathiesg/autocomplete.git/issues"
+  },
+  "homepage": "https://github.com/bathiesg/autocomplete.git#readme",
+  "dependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
